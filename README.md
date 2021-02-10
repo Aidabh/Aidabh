@@ -1,8 +1,6 @@
 ### ✨ Hello everybody 👋 
 
-I’m currently working on coder.
-
-I’m currently learning work with other people.
+I’m currently working on coder and learning work with other people.
  
 I’m looking to collaborate on deloper.
 
